@@ -1,0 +1,5 @@
+# app-service-blueprint-deployment.md
+
+## 特殊定制
+
+* 5-7 行，删除 Azure 国际版视频。
