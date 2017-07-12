@@ -4,6 +4,8 @@
 
 * app-service-api-dotnet-triggers.md
 
+    理由：Logic App 在 Azure 中国还没上线。
+
 ## 不适用功能
 
 * 应用服务环境
