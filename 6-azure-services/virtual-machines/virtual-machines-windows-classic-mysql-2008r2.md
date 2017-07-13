@@ -1,0 +1,3 @@
+# virtual-machines-windows-classic-mysql-2008r2.md
+
+没有任何特别的定制。
