@@ -2,4 +2,4 @@
 
 ## 特殊定制
 
-* 27 行，`az login` => `Login-AzureRmAccount -EnvironmentName AzureChinaCloud`
+* 28 行，`az login` => `Login-AzureRmAccount -EnvironmentName AzureChinaCloud`

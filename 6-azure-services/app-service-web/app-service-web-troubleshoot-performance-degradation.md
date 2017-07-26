@@ -2,8 +2,10 @@
 
 ## 特殊定制
 
-* 68 行，删除不适用链接。
+* 51 行，删除不适用链接，删除 `For more information, see [Track service health](../monitoring-and-diagnostics/insights-service-health.md).`
 
-* 86-88 行，删除 Application Insights 相关内容。
+* 68-69 行，删除不适用链接。
 
-* 90 行，删除 New Relic 相关内容。
+* 84-85 行，删除 Application Insights 和 New Relic 相关内容。
+
+* 107-108 行，删除 Application Insights 相关内容。

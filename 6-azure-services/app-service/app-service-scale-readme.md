@@ -2,4 +2,4 @@
 
 ## 特殊定制
 
-* 34 行，`globally` => `nationally`。
+* 35 行，`globally` => `nationally`。

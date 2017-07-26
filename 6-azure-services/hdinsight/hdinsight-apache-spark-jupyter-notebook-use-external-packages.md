@@ -2,4 +2,4 @@
 
 ## 特殊定制
 
-* 40 行，添加 Azure 中国 HDInsight 版本说明：`[!INCLUDE [hdinsight-linux-acn-version.md](../../includes/hdinsight-linux-acn-version.md)]`
+* 42-44 行，添加 Azure 中国 HDInsight 版本说明：`[!INCLUDE [hdinsight-linux-acn-version.md](../../includes/hdinsight-linux-acn-version.md)]`

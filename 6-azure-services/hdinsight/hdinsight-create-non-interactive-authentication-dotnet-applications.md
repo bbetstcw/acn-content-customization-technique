@@ -2,8 +2,8 @@
 
 ## 特殊定制
 
-* 76 行，添加 BaseUri，添加 `private static Uri BaseUri = new Uri("https://management.chinacloudapi.cn/");`
+* 77 行，添加 BaseUri，添加 `private static Uri BaseUri = new Uri("https://management.chinacloudapi.cn/");`
 
-* 85 行，使用 BaseUri，`new ResourceManagementClient(subCloudCredentials)` => `new ResourceManagementClient(BaseUri, subCloudCredentials)`
+* 87 行，使用 BaseUri，`new ResourceManagementClient(subCloudCredentials)` => `new ResourceManagementClient(BaseUri, subCloudCredentials)`
 
-* 88 行，使用 BaseUri，`new HDInsightManagementClient(subCloudCredentials)` => `new HDInsightManagementClient(subCloudCredentials, BaseUri)`
+* 90 行，使用 BaseUri，`new HDInsightManagementClient(subCloudCredentials)` => `new HDInsightManagementClient(subCloudCredentials, BaseUri)`

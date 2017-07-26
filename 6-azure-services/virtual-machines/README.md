@@ -8,8 +8,6 @@
 
 * A8-A11，N 系列，H 系列，G 系列，L 系列
 
-* docker
-
 * ARM 的 HPC 以及 Linux 的 HPC，经典模式的 Windows HPC 镜像是可以用的，只是没有 A8-A11，也没有 H 系列。
 
 * Oracle

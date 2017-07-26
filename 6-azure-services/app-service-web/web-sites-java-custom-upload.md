@@ -2,6 +2,6 @@
 
 ## 特殊定制
 
-* 23 行，删除应用市场模板的相关内容，删除 `and the Azure Marketplace,`
+* 24 行，删除应用市场模板的相关内容，删除 `and the Azure Marketplace,`
 
-* 245 行，删除 "Try App Service" 相关内容。
+* 243-244 行，删除 "Try App Service" 相关内容。

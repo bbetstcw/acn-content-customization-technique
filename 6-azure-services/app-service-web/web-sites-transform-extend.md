@@ -2,6 +2,6 @@
 
 ## 特殊定制
 
-* 21 行，添加开发差异说明：`[!INCLUDE [azure-sdk-developer-differences](../../includes/azure-sdk-developer-differences.md)]`
+* 23-25 行，添加开发差异说明：`[!INCLUDE [azure-sdk-developer-differences](../../includes/azure-sdk-developer-differences.md)]`
 
-* 166-169 行，删除 "Try App Service" 相关内容。
+* 178-179 行，删除 "Try App Service" 相关内容。

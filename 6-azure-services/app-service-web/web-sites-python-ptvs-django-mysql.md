@@ -2,8 +2,10 @@
 
 ## 特殊定制
 
-* 22 行，删除 YouTube 视频，删除 `This tutorial is also available as a [video](https://www.youtube.com/watch?v=qUtZWtPwbTk).`
+* 24-25 行，删除 YouTube 视频。
 
-* 39-42 行，删除 "Try App Service" 相关内容。
+* 37-38 行，删除 "Try App Service" 相关内容。
 
-* 43 行，添加 VS 登录说明：`[!INCLUDE [azure-visual-studio-login-guide](../../includes/azure-visual-studio-login-guide.md)]`
+* 38 行，添加 VS 登录说明：`[!INCLUDE [azure-visual-studio-login-guide](../../includes/azure-visual-studio-login-guide.md)]`
+
+* 74-79 行，使用经典门户步骤替换 MySQL 的创建。

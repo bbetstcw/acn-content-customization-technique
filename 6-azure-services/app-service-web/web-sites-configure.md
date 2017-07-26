@@ -4,4 +4,4 @@
 
 * 143 行，`three geo-distributed locations` => `two geo-distributed locations`
 
-* 147-150 行，删除 "Try App Service" 相关内容。
+* 145-146 行，删除 "Try App Service" 相关内容。

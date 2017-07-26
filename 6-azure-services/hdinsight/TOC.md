@@ -2,20 +2,22 @@
 
 ## 特殊定制
 
-* 4, 17, 55-59 行，删除 R Server 相关内容。
+* 3-4, 13-14, 47-48 行，删除 R Server 相关内容。
 
-* 8, 21, 107-113 行，删除 Kafka 相关内容。
+* 6-7, 86-87 行，删除 Kafka 和 Domain Joined 相关内容。
 
-* 9, 103-106 行，删除 Domain Joined 相关内容。
+* 16-17 行，删除 Kafka 相关内容。
 
-* 26, 61, 92, 174 行，删除 Data Lake Store 相关内容。
+* 20-21, 48-49, 77-78, 144-145 行，删除 Data Lake Store 相关内容。
 
-* 53 行，删除 Azure Data Factory 相关内容。
+* 46-47 行，删除 Azure Data Factory 相关内容。
 
-* 84, 95, 131, 224 行，删除 Twitter 相关内容。
+* 70-71, 79-80, 103-104, 199-200 行，删除 Twitter 相关内容。
 
-* 135 行，删除 Application Insights 相关内容。
+* 106-107 行，删除 Application Insights 相关内容。
 
-* 153 行，删除 Publish Application 相关内容。
+* 124-125 行，删除 Publish Application 相关内容。
 
-* 231 行，删除国际版的 Learning Path
+* 203-204 行，删除国际版 Azure 链接。
+
+* 204-205 行，删除国际版的 Learning Path。

@@ -2,8 +2,8 @@
 
 ## 特殊定制
 
-* 34 行，删除 Resource Explorer 相关内容，删除 `[Resource Explorer](https://resources.azure.com/) or`
+* 35 行，删除 Resource Explorer 相关内容，删除 `[Resource Explorer](https://resources.azure.com/) or`
 
-* 36-40 行，删除 Resource Explorer 相关内容。
+* 35-36 行，删除 Resource Explorer 相关内容。
 
-* 55 行，删除 API Management 相关内容。
+* 48-end 行，删除 API Management 相关内容。

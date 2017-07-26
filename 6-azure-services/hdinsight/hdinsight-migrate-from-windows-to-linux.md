@@ -2,4 +2,4 @@
 
 ## 特殊定制
 
-* 253-258 行，删除 Azure Data Factory 相关内容。
+* 253-254 行，删除 Azure Data Factory 相关内容。

@@ -1,3 +1,0 @@
-# virtual-machines-linux-quick-create-portal.md
-
-没有任何特别的定制。

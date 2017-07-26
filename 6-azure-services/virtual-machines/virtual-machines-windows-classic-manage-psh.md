@@ -1,3 +1,0 @@
-# virtual-machines-windows-classic-manage-psh.md
-
-没有任何特别的定制。

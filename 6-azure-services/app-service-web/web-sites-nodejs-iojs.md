@@ -2,4 +2,4 @@
 
 ## 特殊定制
 
-* 61-64 行，删除 "Try App Service" 相关内容。
+* 61-62 行，删除 "Try App Service" 相关内容。

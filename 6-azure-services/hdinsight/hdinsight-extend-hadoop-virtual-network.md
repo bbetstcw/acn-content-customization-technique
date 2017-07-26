@@ -2,8 +2,8 @@
 
 ## 特殊定制
 
-* 34 行，添加 Azure CLI 2 的登录说明：`[!INCLUDE [azure-cli-2-azurechinacloud-environment-parameter](../../includes/azure-cli-2-azurechinacloud-environment-parameter.md)]`
+* 52-53 行，添加 Azure CLI 2 的登录说明：`[!INCLUDE [azure-cli-2-azurechinacloud-environment-parameter](../../includes/azure-cli-2-azurechinacloud-environment-parameter.md)]`
 
-* 110-130 行，替换 Azure 国际版的区域。
+* 240-243 行，删除 Azure 国际版的区域。
 
-* 148-260 行，替换示例中的 IP 地址，`168.61.49.99` => `42.159.96.170`，`23.99.5.239` => `139.217.2.219`，`168.61.48.131` => `42.159.198.178`，`138.91.141.162` => `42.159.234.157`
+* 305, 309, 316, 320, 373, 374 行，替换示例中的 IP 地址，`52.164.210.96` => `42.159.96.170`，`13.74.153.132` => `139.217.2.219`

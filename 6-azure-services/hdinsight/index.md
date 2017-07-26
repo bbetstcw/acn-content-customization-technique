@@ -2,10 +2,10 @@
 
 ## 特殊定制
 
-* 3, 19 行，删除 R Server 相关内容，删除 `R-Server,`
+* 3, 20 行，删除 R Server 相关内容，删除 `R-Server,`
 
-* 40-57 行，删除 Azure 国际版视频。
+* 41-42 行，删除 Azure 国际版视频。
 
-* 76-93 行，删除 R Server 相关内容。
+* 52-53 行，删除 R Server 相关内容。
 
-* 133-176 行，删除 Reference。
+* 95-end 行，删除 Reference。

@@ -2,6 +2,8 @@
 
 ## 特殊定制
 
-* 68 行，删除不适用链接。
+* 51 行，删除不适用链接，删除 `For more information, see [Track service health](../monitoring-and-diagnostics/insights-service-health.md).`
 
-* 73-88 行，删除 Support Portal 相关内容。
+* 68-69 行，删除不适用链接。
+
+* 72-73 行，删除 Support Portal 相关内容。
