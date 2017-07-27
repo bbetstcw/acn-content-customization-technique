@@ -1,3 +1,5 @@
 # virtual-machines-common-classic-oracle.md
 
-没有任何特别的定制。
+## 特殊定制
+
+* begin-1 行，删除不适用链接。

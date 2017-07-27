@@ -1,3 +1,5 @@
 # vpn-gateway-cli-login-include.md
 
-没有任何特别的定制。
+## 特殊定制
+
+* 7-9 行，添加 CLI 2.0 登录说明。

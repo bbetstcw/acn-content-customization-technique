@@ -1,3 +1,5 @@
 # virtual-machines-common-extensions-features.md
 
-没有任何特别的定制。
+## 特殊定制
+
+* 删除不适用的扩展。

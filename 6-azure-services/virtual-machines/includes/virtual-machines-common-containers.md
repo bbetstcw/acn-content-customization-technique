@@ -1,3 +1,3 @@
 # virtual-machines-common-containers.md
 
-没有任何特别的定制。
+此文档不适用，因为 Azure Container 还没上线。

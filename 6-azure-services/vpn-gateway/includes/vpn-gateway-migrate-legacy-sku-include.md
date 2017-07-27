@@ -1,3 +1,3 @@
 # vpn-gateway-migrate-legacy-sku-include.md
 
-没有任何特别的定制。
+此文档不适用，因为新 SKU 还没上线。

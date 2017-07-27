@@ -1,3 +1,5 @@
 # virtual-machines-common-planned-maintenance.md
 
-没有任何特别的定制。
+## 特殊定制
+
+* 69-70 行，删除国际版 Azure 区域。

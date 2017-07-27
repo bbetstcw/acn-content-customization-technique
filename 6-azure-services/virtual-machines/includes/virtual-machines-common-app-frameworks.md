@@ -1,3 +1,5 @@
 # virtual-machines-common-app-frameworks.md
 
-没有任何特别的定制。
+## 特殊定制
+
+* 24-26 行，添加 ARM 模板可能需要编辑的说明。

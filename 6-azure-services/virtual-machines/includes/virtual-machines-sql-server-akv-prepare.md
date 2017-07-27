@@ -1,3 +1,5 @@
 # virtual-machines-sql-server-akv-prepare.md
 
-没有任何特别的定制。
+## 特殊定制
+
+* 14 行，删除国际版 Azure 链接。

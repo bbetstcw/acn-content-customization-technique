@@ -1,3 +1,5 @@
 # jupyter-notebook.md
 
-没有任何特别的定制。
+## 特殊定制
+
+* 26-27 行，删除 Azure Notebook 相关内容。
