@@ -1,3 +1,3 @@
 # azure-intellij-login-guide.md
 
-没有任何特别的定制。
+这个为 Intellig 的 Azure Tools 写的登录说明。

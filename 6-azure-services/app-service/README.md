@@ -10,7 +10,7 @@
 
 * Logic App
 
-* Hybrid Connection
+* Hybrid Connection, 这个功能有可能已经可以使用了，但是在 Azure 门户中还是不能设置，不知道能不能通过命令行去启用。
 
 * 应用服务 Linux
 

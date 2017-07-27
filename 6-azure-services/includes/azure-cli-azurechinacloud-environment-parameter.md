@@ -1,3 +1,3 @@
 # azure-cli-azurechinacloud-environment-parameter.md
 
-没有任何特别的定制。
+这个为 Azure CLI 1.0 写的登录说明。

@@ -22,6 +22,8 @@
 
 * Vertical Scaling
 
+* autoscale
+
 * Symantec
 
 * Hpcpack 2016 cluster

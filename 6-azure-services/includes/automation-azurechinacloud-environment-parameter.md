@@ -1,3 +1,3 @@
 # automation-azurechinacloud-environment-parameter.md
 
-没有任何特别的定制。
+这个为 Azure PowerShell 经典模式写的登录说明。

@@ -1,3 +1,3 @@
 # azure-sdk-developer-differences.md
 
-没有任何特别的定制。
+这个开发差异说明。
